@@ -19,8 +19,8 @@ const Hero = () => {
 				<p className='flex px-4 text-slate-500'>Data Services</p>
 			<div className='flex justify-between flex-wrap px-4'>
 				<p className='flex px-4  text-slate-500'> <AiFillSecurityScan className='h-6 text-indigo-600'/> App security</p>
-				<p className='flex px-4 text-slate-500'><AiOutlineDashboard className='h-6 text-indigo-600'/>Icon Dashboard Design</p>
-				<p className='flex px-4 text-slate-500'><AiFillDatabase className='h-6 text-indigo-600'/>Icon Cloud Data</p>
+				<p className='flex px-4 text-slate-500'><AiOutlineDashboard className='h-6 text-indigo-600'/> Dashboard Design</p>
+				<p className='flex px-4 text-slate-500'><AiFillDatabase className='h-6 text-indigo-600'/> Cloud Data</p>
 				<p className='flex px-4 text-slate-500'><AiFillApi className='h-6 text-indigo-600'/> API</p>
 			</div>
 		</div>
